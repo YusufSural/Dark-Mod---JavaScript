@@ -1,0 +1,24 @@
+div{
+    position: absolute;
+    top: 20%;
+    left: 32%;
+    display: flex;
+    flex-direction: column;
+}
+#buton1{
+    border: 0px;
+    background-color: rgb(9, 9, 9) ;
+    cursor: pointer;
+    font-size: 34px;
+}
+#buton2{
+    border: 0px;
+    cursor: pointer;
+    font-size: 26px;
+    padding: 6px;
+}
+
+p{
+width: 460px;
+font-size: 30px;
+}
